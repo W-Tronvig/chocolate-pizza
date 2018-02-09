@@ -1,0 +1,39 @@
+.float-left{
+    float:left;
+}
+
+.float-right{
+    float: right;
+}
+
+.clear-left{
+    clear:left;
+}
+
+.clear-right{
+    clear: right;
+}
+
+.dashdash {
+
+    width: 100%;
+    background-color:grey;
+    height: 1em;
+}
+.img-right {
+    position: relative;
+    right: -95%;
+    border: none;
+    width: 70px;
+    vertical-align: super;
+}
+
+.bigimage {
+    width: 100%;
+}
+
+body {
+    margin: 0 15em;
+}
+
+
