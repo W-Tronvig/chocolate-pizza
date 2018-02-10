@@ -39,7 +39,6 @@ body {
 
 .text-indent {
     text-indent: 2em;
-
 }
 
 h1 {
@@ -91,3 +90,8 @@ footer p {
     color: grey; 
     margin: 0; 
 }
+
+h2 {
+    font-family: 'Oswald', sans-serif;
+}
+
