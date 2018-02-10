@@ -80,6 +80,17 @@ form {
     display: flex;
     justify-content: space-around;
 
+
+}
+form div {
+    width: 45%;
+    margin: 1em 0; 
+}
+
+form li {
+
+    list-style-type: none;
+
 }
 .footer {
     margin: 0 auto;
@@ -120,4 +131,10 @@ h3{
 }
 .comment-img{
     margin: 1em; 
+}
+
+.strike {
+
+    text-decoration: line-through; 
+
 }
