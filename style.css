@@ -24,7 +24,7 @@
     position: relative;
     right: -95%;
     border: none;
-    width: 70px;
+    width: 50px;
     vertical-align: super;
 }
 
@@ -100,3 +100,24 @@ h2 {
     font-family: 'Oswald', sans-serif;
 }
 
+.buttonstyle {
+
+    background-color: rgb(206, 129, 129);
+    color: white;
+    width: 10em; 
+    height: 4em;
+    text-transform: uppercase; 
+
+}
+h3{
+    margin: 0;
+    font-size: 1.2em; 
+    margin-top: 5px;
+}
+.comment{
+    margin-top: 0;
+    padding: 0 1em; 
+}
+.comment-img{
+    margin: 1em; 
+}
