@@ -33,7 +33,7 @@
 }
 
 body {
-    margin: 0 15em;
+    margin: 1em 15em;
     width: 793.75px;
 }
 
@@ -46,18 +46,23 @@ h1 {
     position: relative;
     font-family: 'Stalemate', cursive;
     top: -21px;
+    margin-left: .2em;
+    font-style: italic;
 }
 
 h4.first {
     position: relative;
-    left: -48px;
-    bottom: -14px;
+    left: -50px;
+    bottom: -23px;
 
 }
 
 h4 {
     text-transform: uppercase;
-    font-family: monospace;
+    font-family: 'Share Tech Mono', monospace;
+    font-weight: normal;
+    color: grey;
+    font-size: .5em;
 }
 
 aside {
