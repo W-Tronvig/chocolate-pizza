@@ -34,6 +34,60 @@
 
 body {
     margin: 0 15em;
+    width: 793.75px;
 }
 
+.text-indent {
+    text-indent: 2em;
 
+}
+
+h1 {
+    position: relative;
+    font-family: 'Stalemate', cursive;
+    top: -21px;
+}
+
+h4.first {
+    position: relative;
+    left: -48px;
+    bottom: -14px;
+
+}
+
+h4 {
+    text-transform: uppercase;
+    font-family: monospace;
+}
+
+aside {
+    background-image: url("assets/list-bg.png");
+    height: 20em;
+    background-repeat: no-repeat;
+    
+}
+
+label {
+    font-size: 1.5em;
+    font-family: sans-serif;
+   
+}
+form {
+    display: flex;
+    justify-content: space-around;
+
+}
+.footer {
+    margin: 0 auto;
+    width: 35%; 
+    text-align: center;
+}
+
+.section-header {
+    height: 4em;
+}
+
+footer p {
+    color: grey; 
+    margin: 0; 
+}
